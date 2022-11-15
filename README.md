@@ -1,3 +1,5 @@
+<img align="middle" width="100%" src="./banner.png" alt="Header" />
+
 <h1 align="center">Hi 👋, I'm Alex (AXRS) Scott</h1>
 <h3 align="center">I’m a pragmatic and passionate (full-stack) software developer who takes pride in the craft with an aim to deliver value.</h3>
 <p align="center">I started tinkering with software in my early high school years and became invigorated by the endless possibilities. I love pushing the bounds of my productivity and discovering new things. There is always something new learn.</p>
