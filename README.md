@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/AXRS"><img src="https://api.daily.dev/devcards/160f51bf5fe944e996a55aa3b15eb4dc.png?r=imc" width="400" alt="Alexander R Scott's Dev Card"/></a>
+<a href="https://app.daily.dev/AXRS"><img src="https://github.com/axrs/axrs/blob/master/devcard.svg" width="400" alt="Alexander R Scott's Dev Card"/></a>
