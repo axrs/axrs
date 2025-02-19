@@ -4,17 +4,14 @@
 <h3 align="center">I’m a pragmatic and passionate (full-stack) software developer who takes pride in the craft with an aim to deliver value.</h3>
 <p align="center">I started tinkering with software in my early high school years and became invigorated by the endless possibilities. I love pushing the bounds of my productivity and discovering new things. There is always something new learn.</p>
   <p align="center">
-  I relocated from Townsville in 2020 with my wife to lead and grow the JESI team while looking to expand my knowledge and connections within the community. I enjoy cooking (especially smoking meets), escape rooms, working on side projects, exploring new locations for hikes and adventures. 
+  I relocated from Townsville in 2020 with my wife to lead and grow the JESI team while looking to expand my knowledge and connections within the community. I enjoy cooking (especially smoked meats), escape rooms, working on side projects, exploring new locations for hikes and adventures. 
   </p>
-  <p align="center">I'm also a new father! (as of November 2022)</p>
 
 ---
 
-- 🔭 I’m currently working on **A Cross-Platform API to replace my Bash scripts**
+- 🔭 I’m currently working on several offline-first CRDT backed apps
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Clojure, Java, Docker, AWS, Azure**
+- 💬 Ask me about **Clojure, Java, Fluter, Dart, Docker, AWS, Azure**
 
 - 📫 How to reach me **xander@axrs.dev**, [LinkedIn]("https://linkedin.com/in/alexanderrscott)
 
@@ -24,10 +21,12 @@
 
 * Java + Clojure
 * JavaScript + ClojureScript
+* Flutter + Dart
 * Full Stack Development
 * Git
 * Infrastructure Automation and DevOps
   * Terraform
+  * Terragrunt
 * Project Management and Planning
 * RDBMS (PostgreSQL + Datomic)
 * Unit + Automated Testing and QA
